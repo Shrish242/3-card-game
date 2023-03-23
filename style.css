@@ -1,0 +1,30 @@
+img{
+    height: 100px;
+    width: 80px;
+}
+.card1{
+    position: absolute;
+    left: 40%;
+    top: -2%;
+    
+}
+.card2{
+    position: absolute;
+    left: 43%;
+    top: -2%;
+}
+.card3{
+    position: absolute;
+    left: 46%;
+    top: -2%;
+}
+.secondplayer{
+    transform: rotate(90deg);
+    position: absolute;
+    right: -6%;
+    bottom: 50%;
+}
+/* .card22{
+    position: absolute;
+    top: 56%;
+} */
