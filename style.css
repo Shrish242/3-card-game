@@ -5,26 +5,67 @@ img{
 .card1{
     position: absolute;
     left: 40%;
-    top: -2%;
+    top: -1%;
     
 }
 .card2{
     position: absolute;
     left: 43%;
-    top: -2%;
+    top: -1%;
 }
 .card3{
     position: absolute;
     left: 46%;
-    top: -2%;
+    top: -1%;
 }
 .secondplayer{
     transform: rotate(90deg);
     position: absolute;
-    right: -6%;
+    right: -0%;
     bottom: 50%;
 }
-/* .card22{
+.card21{
     position: absolute;
-    top: 56%;
-} */
+    left: 40;
+
+}
+.card23{
+    position: absolute;
+}
+.thirdplayer{
+    position: absolute;
+    bottom: -1%;
+    right:50%;
+}
+.card31{
+    position: absolute;
+    left: 35;
+}
+.fourthplayer{
+    transform: rotate(90deg);
+    position: absolute;
+    bottom: 40%;
+    left: -40;
+}
+.card41{
+    position: absolute;
+    left: 25%;
+}
+h1{
+    position: absolute;
+    left: 40%;
+    bottom: 50%;
+}
+button{
+    background-color: #4CAF50; /* Green */
+    border-radius: 5%;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: absolute;
+    left: 40%;
+    bottom: 40%;
+  }
